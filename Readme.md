@@ -1,4 +1,6 @@
-# Hola mi nombre es Carlos Abel 
+<div align="center">
+ <span style="font-family:Century Gothic ;font-size: 2em;color: #4682B4;font-weight: 900;" >Hola mi nombre es Carlos Abel </span>
+</div>
 
 ¡Hola a todos!
 
