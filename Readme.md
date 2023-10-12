@@ -26,6 +26,12 @@ Mi nombre es Abel, y soy un apasionado desarrollador web con un enfoque especial
 - Amplia competencia en la construcción de servidores y APIs utilizando Node.js y Express, lo que permite la creación de aplicaciones web escalables y robustas.
 - Experiencia en el diseño y gestión de bases de datos relacionales utilizando PostgreSQL, garantizando una gestión eficiente y segura de los datos.
 
+<div>
+<img src="Postgresql.png" width="100"> 
+<img src="nodelogo.png" width="100">
+<img src="sequelize.png" width="100">
+</div>
+
 ### Herramientas y Tecnologías Adicionales
 
 - Competencia en una amplia variedad de herramientas y tecnologías del ecosistema de JavaScript.
