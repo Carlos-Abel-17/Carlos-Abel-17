@@ -16,6 +16,10 @@ Mi nombre es Abel, y soy un apasionado desarrollador web con un enfoque especial
 - He trabajado en una amplia variedad de proyectos, desde aplicaciones de una sola página hasta aplicaciones web complejas.
 
 - Experiencia significativa en el desarrollo de interfaces de usuario atractivas y altamente interactivas con React y React + Vite.
+<div>
+<img src="vite.png" alt="Texto Alternativo" width="100" >
+<img src="JavaScript.png" alt="Texto Alternativo" width="100">
+</div>
 
 ### Backend y Bases de Datos
 
