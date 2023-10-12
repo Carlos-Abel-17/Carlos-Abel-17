@@ -9,7 +9,7 @@ Mi nombre es Abel, y soy un apasionado desarrollador web con un enfoque especial
 Al revisar mis repositorios, podrán ver los proyectos que tuve que realizar durante mi cursada en el bootcamp de Soy Henry. También podrán encontrar ejercicios de lógica en JavaScript.
 
 En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual reduce significativamente los errores al desarrollar aplicaciones debido a su tipado estático. Esto mejora la comprensión del código, no solo para el desarrollador, sino para todo el equipo. Además, TypeScript ofrece:
-
+<img src="typescript.png" alt="Texto Alternativo" width="100" >
 - Tipado Estático: Atrapa errores en tiempo de compilación.
 - Interfaces y Tipos: Facilita la definición de estructuras de datos.
 - Compatibilidad con JavaScript: Permite la integración de código existente.
