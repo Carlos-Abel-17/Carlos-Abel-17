@@ -1,5 +1,5 @@
 
- # Hola me presento soy un desarrollador FullStack
+ # Hola me presento soy  desarrollador FullStack
 
 
 ¡Hola a todos!
