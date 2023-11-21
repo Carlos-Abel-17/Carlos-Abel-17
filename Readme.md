@@ -54,5 +54,5 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 - Experiencia en el uso de sistemas de control de versiones como Git y colaboración en entornos colaborativos con plataformas como GitHub.
 
 ### contacto
-- correo:aguado17@gmail.com
+- correo:aguado170305@gmail.com
 - Numero de telefono :+51 983446294 
