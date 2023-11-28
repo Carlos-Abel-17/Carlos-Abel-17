@@ -57,3 +57,5 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 - correo:aguado170305@gmail.com
 - Numero de telefono :+51 983446294
 - Henry Talent : https://www.talent.soyhenry.com/candidate/17199
+- escribeme a mi whatsApp:https://wa.me/51983446294
+
