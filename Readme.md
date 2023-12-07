@@ -8,7 +8,7 @@ Mi nombre es Abel, y soy un apasionado desarrollador web con un enfoque especial
 
 Al revisar mis repositorios, podrán ver los proyectos que tuve que realizar durante mi cursada en el bootcamp de Soy Henry. También podrán encontrar ejercicios de lógica en JavaScript.
 
-En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual reduce significativamente los errores al desarrollar aplicaciones debido a su tipado estático. Esto mejora la comprensión del código, no solo para el desarrollador, sino para todo el equipo. Además, TypeScript ofrece:
+En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual reduce significativamente los errores al desarrollar aplicaciones debido a su tipado estático. 
 
 ![Alt text](developer.jpg)
 
@@ -25,8 +25,6 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 <div>
 <img src="vite.png" alt="Texto Alternativo" width="100" >
 <img src="JavaScript.png" alt="Texto Alternativo" width="100">
-</div>
-<div>
 <img src="typescript.png" alt="Texto Alternativo" width="100" >
 </div>
 
