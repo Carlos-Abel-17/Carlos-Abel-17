@@ -14,21 +14,14 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 
 ## Experiencia y Conocimientos
 
-### Desarrollador Web Full Stack
-
-### JavaScript
-
-- Tengo un sólido dominio de JavaScript, el lenguajes esenciales en el desarrollo web moderno.
-- He trabajado en una amplia variedad de proyectos, desde aplicaciones de una sola página hasta aplicaciones web complejas.
-
-- Experiencia significativa en el desarrollo de interfaces de usuario atractivas y altamente interactivas con React y React + Vite.
+### Desarrollado Front-end
 <div>
 <img src="vite.png" alt="Texto Alternativo" width="100" >
 <img src="JavaScript.png" alt="Texto Alternativo" width="100">
 <img src="typescript.png" alt="Texto Alternativo" width="100" >
 </div>
 
-### Backend y Bases de Datos
+### Desarrollo Back-end y Bases de Datos
 
 - Amplia competencia en la construcción de servidores y APIs utilizando Node.js y Express, lo que permite la creación de aplicaciones web escalables y robustas.
 - Experiencia en el diseño y gestión de bases de datos relacionales utilizando PostgreSQL, garantizando una gestión eficiente y segura de los datos.
