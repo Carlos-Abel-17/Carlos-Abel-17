@@ -14,17 +14,19 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 
 ## Experiencia y Conocimientos
 
-### framewoks
+→ Framewoks
 <div>
 <img src="vite.png" alt="Texto Alternativo" width="100" >
 
 </div>
-### Lenguajes de programacion
+
+→ Lenguajes de programacion
+
 <div>
  <img src="JavaScript.png" alt="Texto Alternativo" width="100">
 <img src="typescript.png" alt="Texto Alternativo" width="100" >
 </div>
-### Desarrollo Back-end y Bases de Datos
+→ Desarrollo Back-end y Bases de Datos
 
 - Amplia competencia en la construcción de servidores y APIs utilizando Node.js y Express, lo que permite la creación de aplicaciones web escalables y robustas.
 - Experiencia en el diseño y gestión de bases de datos relacionales utilizando PostgreSQL, garantizando una gestión eficiente y segura de los datos.
