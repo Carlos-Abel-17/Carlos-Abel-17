@@ -40,7 +40,7 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 
 <div>
 <img src="./img/Bootstrap_logo.png" alt="Texto Alternativo" width="100" >
-<img src="./img/tailwind.png" alt="Texto Alternativo" width="100" >
+<img src="./img/tailwind.png" alt="tailwindCSS" width="100" >
 </div>
 
 ### contacto
