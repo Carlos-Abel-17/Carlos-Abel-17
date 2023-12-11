@@ -13,7 +13,7 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 
 ## Experiencia y Conocimientos
 
-→ Framewoks
+→🚀💻 Framewoks🚀💻🛡️
 <div>
 <img src="./img/vite.png" alt="Texto Alternativo" width="100" >
 <img src="./img/nextjs_logo.webp" alt="Texto Alternativo" width="100" >
@@ -21,15 +21,14 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 <img src="./img/laravel-9-imagen.png" alt="Texto Alternativo" width="100" >
 </div>
 
-→ Lenguajes de programacion
-
+→ 🚀💻 Lenguajes de programacion🚀💻🛡️
 <div>
  <img src="./img/JavaScript.png" alt="Texto Alternativo" width="100">
 <img src="./img/typescript.png" alt="Texto Alternativo" width="100" >
 <img src="./img/php-img.png" alt="Texto Alternativo" width="100" >
 </div>
 
-→ Desarrollo Back-end y Bases de Datos
+→ 🚀💻 Desarrollo Back-end y Bases de Datos🚀💻🛡️
 
 <div>
 <img src="./img/Postgresql.png" width="100"> 
@@ -37,7 +36,7 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 <img src="./img/sequelize.png" width="100">
 </div>
 
-→ Herramientas y Tecnologías Adicionales
+→ 🚀💻 Herramientas y Tecnologías Adicionales🚀💻🛡️
 
 <div>
 <img src="./img/Bootstrap_logo.png" alt="Texto Alternativo" width="100" >
