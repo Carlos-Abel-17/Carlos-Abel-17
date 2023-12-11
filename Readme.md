@@ -25,11 +25,10 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 <div>
  <img src="./img/JavaScript.png" alt="Texto Alternativo" width="100">
 <img src="./img/typescript.png" alt="Texto Alternativo" width="100" >
+<img src="./img/php-img.png" alt="Texto Alternativo" width="100" >
 </div>
-→ Desarrollo Back-end y Bases de Datos
 
-- Amplia competencia en la construcción de servidores y APIs utilizando Node.js y Express, lo que permite la creación de aplicaciones web escalables y robustas.
-- Experiencia en el diseño y gestión de bases de datos relacionales utilizando PostgreSQL, garantizando una gestión eficiente y segura de los datos.
+→ Desarrollo Back-end y Bases de Datos
 
 <div>
 <img src="./img/Postgresql.png" width="100"> 
@@ -39,8 +38,10 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 
 → Herramientas y Tecnologías Adicionales
 
-- Competencia en una amplia variedad de herramientas y tecnologías del ecosistema de JavaScript.
-- Experiencia en el uso de sistemas de control de versiones como Git y colaboración en entornos colaborativos con plataformas como GitHub.
+<div>
+<img src="./img/Bootstrap_logo.png" alt="Texto Alternativo" width="100" >
+<img src="./img/tailwind.png" alt="Texto Alternativo" width="100" >
+</div>
 
 ### contacto
 - correo: aguado170305@gmail.com
