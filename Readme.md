@@ -16,7 +16,8 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 → Framewoks
 <div>
 <img src="./img/vite.png" alt="Texto Alternativo" width="100" >
-
+<img src="./img/nextjs_logo.webp" alt="Texto Alternativo" width="100" >
+<img src="./img/React-icon.png" alt="Texto Alternativo" width="100" >
 </div>
 
 → Lenguajes de programacion
