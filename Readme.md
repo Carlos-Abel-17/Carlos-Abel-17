@@ -18,6 +18,7 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 <img src="./img/vite.png" alt="Texto Alternativo" width="100" >
 <img src="./img/nextjs_logo.webp" alt="Texto Alternativo" width="100" >
 <img src="./img/React-icon.png" alt="Texto Alternativo" width="100" >
+<img src="./img/laravel-9-imagen.png" alt="Texto Alternativo" width="100" >
 </div>
 
 → Lenguajes de programacion
@@ -41,6 +42,9 @@ En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual
 <div>
 <img src="./img/Bootstrap_logo.png" alt="Texto Alternativo" width="100" >
 <img src="./img/tailwind.png" alt="tailwindCSS" width="100" >
+<img src="./img/chartjs.svg" alt="tailwindCSS" width="100" >
+<img src="./img/material.png" alt="tailwindCSS" width="100" >
+<img src="./img/nextui.png" alt="tailwindCSS" width="100" >
 </div>
 
 ### contacto
