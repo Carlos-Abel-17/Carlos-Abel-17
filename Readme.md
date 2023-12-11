@@ -5,9 +5,8 @@
 
 Mi nombre es Abel, y soy un apasionado desarrollador web con un enfoque especializado en JavaScript. Durante los últimos años, he estado inmerso en el emocionante mundo del desarrollo web, construyendo experiencias interactivas y dinámicas para usuarios.
 
-Al revisar mis repositorios, podrán ver los proyectos que tuve que realizar durante mi cursada en el bootcamp de Soy Henry. También podrán encontrar ejercicios de lógica en JavaScript.
+Al revisar mis repositorios, podrán ver los proyectos que tuve que realizar durante mi cursada en el bootcamp de Soy Henry.
 
-En estos momentos me estoy especializando con el lenguaje de TypeScript, lo cual reduce significativamente los errores al desarrollar aplicaciones debido a su tipado estático. 
 
 <img src='./img/developer.jpg' style='border-radius:0.5em' width='100%'>
 
