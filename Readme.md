@@ -25,6 +25,7 @@ Al revisar mis repositorios, podrán ver los proyectos que tuve que realizar dur
  <img src="./img/JavaScript.png" alt="Texto Alternativo" width="100">
 <img src="./img/typescript.png" alt="Texto Alternativo" width="100" >
 <img src="./img/php-img.png" alt="Texto Alternativo" width="100" >
+<img src="./img/CSharp.png" alt="Texto Alternativo" width="100" >
 </div>
 
 → 🚀💻 Desarrollo Back-end y Bases de Datos🚀💻🛡️
@@ -50,4 +51,5 @@ Al revisar mis repositorios, podrán ver los proyectos que tuve que realizar dur
 - Numero de telefono :+51 983446294
 - Henry Talent : https://www.talent.soyhenry.com/candidate/17199
 - escribeme a mi whatsApp: https://wa.me/51983446294
+- Mi Portafolio:  https://my-profile-rxst.vercel.app/
 
