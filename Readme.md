@@ -4,7 +4,7 @@
 
 ### Desarrollador Full Stack
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_mis_proyectos-FF6B6B?style=flat)](https://www.abelaguadodev.work)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_mis_proyectos-FF6B6B?style=flat)](https://www.abelaguadodev.work/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/Carlos-Abel-17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-usuario)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat&logo=whatsapp)](https://wa.me/51983446294)
@@ -25,7 +25,7 @@ En mis repositorios encontrarás proyectos reales donde aplico estas tecnología
 
 ## Mi portafolio 🌐
 
-> **[Ver mi portafolio →](https://tu-portafolio.com)**  
+> **[Ver mi portafolio →](https://www.abelaguadodev.work/)**  
 > Proyectos, demos y experiencia en un solo lugar.
 
 ---
