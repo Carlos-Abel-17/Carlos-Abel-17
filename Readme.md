@@ -6,6 +6,7 @@
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-Ver_mis_proyectos-FF6B6B?style=flat)](https://www.abelaguadodev.work/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/Carlos-Abel-17)
+[![TechnologicalCode](https://img.shields.io/badge/TechnologicalCode-Org-181717?style=flat&logo=github)](https://github.com/technologicalcode)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-usuario)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat&logo=whatsapp)](https://wa.me/51983446294)
 
@@ -16,6 +17,8 @@
 ## Sobre mí 💻
 
 Soy un **desarrollador web** apasionado por crear experiencias interactivas y dinámicas. Mi foco principal es **JavaScript** y el ecosistema moderno del frontend y backend.
+
+**Fundador y desarrollador en [TechnologicalCode](https://github.com/technologicalcode).** Creador de **BBS** (*Business Booking System*), un sistema de reservas con IA tanto por mensaje de texto (WhatsApp, Instagram, Messenger) y próximamente a través de llamadas.
 
 En mis repositorios encontrarás proyectos reales donde aplico estas tecnologías. Me encanta aprender, compartir y construir soluciones que aporten valor.
 
